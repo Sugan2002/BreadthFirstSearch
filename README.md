@@ -1,4 +1,9 @@
-# Breadth First Search
+
+### EX NO : 02
+### DATE  : 28-04-2022
+# <p align="center"> Breadth First Search </p>
+
+
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -23,6 +28,13 @@ Include each node and its distance separately in the dictionary data structure.
 ### STEP 5:
 End of program.
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## ROUTE MAP
 ![AI_MAPF](https://user-images.githubusercontent.com/77089743/167080929-59072651-a1bb-4ab6-a075-22990c1a4daa.PNG)
@@ -48,7 +60,6 @@ from collections import defaultdict, deque, Counter
 from itertools import combinations
 ```
 
-## PROGRAM
 #### This is the abstract class. Specific problem domains will subclass this.
 
 ```python
